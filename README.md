@@ -106,17 +106,18 @@ plt.ylabel('Google Stock Price')
 plt.legend()
 plt.show()
 
+```
 
 ## OUTPUT
 
 ### True Stock Price, Predicted Stock Price vs time
 
-![image](https://github.com/Ashwinkumar-03/rnn-stock-price-prediction/assets/118663725/8e17a0f2-1530-40a6-9b0d-46999f61a4b8)
+![image](https://github.com/Ashwinkumar-03/rnn-stock-price-prediction/assets/118663725/28624ab1-6006-4d4a-9869-b5d0f6d1ec8b)
 
 
 ### Mean Square Error
 
-![image](https://github.com/Ashwinkumar-03/rnn-stock-price-prediction/assets/118663725/187f7b52-a60b-456d-8ff4-f3847b3a732c)
+![image](https://github.com/Ashwinkumar-03/rnn-stock-price-prediction/assets/118663725/e76afb5c-e46b-4b6f-94f2-b5c54892d554)
 
 
 ## RESULT:
