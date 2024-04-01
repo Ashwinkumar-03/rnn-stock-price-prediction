@@ -10,15 +10,20 @@ To develop a Recurrent Neural Network model for stock price prediction.
 
 Include the neural network model diagram.
 
-## DESIGN STEPS
+## Design Steps
 
-### STEP 1:
-
-### STEP 2:
-
-### STEP 3:
-
-Write your own steps
+### Step 1:
+import required header files
+### Step 2:
+read the csv file using pd.read_csv
+### Step 3:
+use minmaxscaler to set range of feature
+### Step 4:
+train the dataset
+### Step 5:
+compile the training set
+### Step 6:
+fit the training set
 
 ## PROGRAM
 ```
